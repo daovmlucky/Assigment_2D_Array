@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'assignment-array'
+rootProject.name = 'Assigment_2D_Array'
